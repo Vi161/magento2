@@ -6,12 +6,15 @@
                     <argument name="block_id" xsi:type="string">header_top_panel</argument>
                 </arguments>
             </block>
-            <block class="Magento\Cms\Block\Block" name="need_help" after="header_top_panel">
-                <arguments>
-                    <argument name="block_id" xsi:type="string">need_help</argument>
-                </arguments>
-            </block>
-            <block class="Magento\Store\Block\Switcher" name="store_language" as="store_language" template="Magento_Store::switch/languages.phtml" />
+            <container name="header-top-right" htmlTag="div" htmlClass="header-top-right" after="header_top_panel">
+                <block class="Magento\Cms\Block\Block" name="need_help" after="header_top_panel">
+                    <arguments>
+                        <argument name="block_id" xsi:type="string">need_help</argument>
+                    </arguments>
+                </block>
+                <block class="Magento\Directory\Block\Currency" name="currency" before="store_language" template="currency.phtml"/>
+                <block class="Magento\Store\Block\Switcher" name="store_language" as="store_language" template="Magento_Store::switch/languages.phtml" after="need_help"/>
+            </container>
         </referenceContainer>
 
         <referenceContainer name="header-wrapper">

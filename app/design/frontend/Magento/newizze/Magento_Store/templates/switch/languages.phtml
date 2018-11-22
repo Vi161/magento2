@@ -21,7 +21,8 @@
             <strong class="view-<?= $block->escapeHtml($block->getCurrentStoreCode()) ?>">
                 <span><?= $block->escapeHtml($block->getStoreName()) ?></span>
                 <?= $block->escapeHtml($block->getCurrentStoreCode()) ?>
-                <svg class=“icon icon-arrdown”><use xlink:href=“img/symbols.svg#<?= $block->escapeHtml($block->getCurrentStoreCode()) ?>” ></use></svg>
+                <svg class="icon icon-flag"><use xlink:href="<?php echo $this->getViewFileUrl('images/sprite.svg'); ?>#check"></use></svg>
+<!--                <svg class=“icon icon-arrdown”><use xlink:href=“img/symbols.svg#--><?//= $block->escapeHtml($block->getCurrentStoreCode()) ?><!--” ></use></svg>-->
             </strong>
         </div>
         <ul class="dropdown switcher-dropdown"

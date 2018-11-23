@@ -224,8 +224,8 @@ gulp.task('clean', function (cb) {
 
 //svg sprite
 var basePaths = {
-    src: 'sprite_svg/build/',
-    dest: 'sprite_svg/html/assets/',
+    src: 'app/design/frontend/Magento/newizze/web/sprite_svg/build/',
+    dest: 'app/design/frontend/Magento/newizze/web/sprite_svg/html/assets/',
 };
 var paths = {
     images: {
@@ -246,11 +246,12 @@ var paths = {
 	Let the magic begin
 */
 var gulp = require('gulp');
-
 var $ = {
     gutil: require('gulp-util'),
+    svgmin: require('gulp-svgmin'),
     svgSprite: require('gulp-svg-sprite'),
     size: require('gulp-size'),
+    cheerio: require('gulp-cheerio'),
 };
 
 var changeEvent = function(evt) {
@@ -259,6 +260,20 @@ var changeEvent = function(evt) {
 
 gulp.task('sprite', function () {
     return gulp.src(paths.sprite.src)
+    // minify svg
+        .pipe($.svgmin({
+            js2svg: {
+                pretty: true
+            }
+        }))
+        .pipe($.cheerio({
+            run: function ($) {
+                $('[fill]').removeAttr('fill');
+                $('[style]').removeAttr('style');
+                $('[stroke]').removeAttr('stroke');
+            },
+            parserOptions: { xmlMode: true }
+        }))
         .pipe($.svgSprite({
             shape: {
                 spacing: {
@@ -268,13 +283,13 @@ gulp.task('sprite', function () {
             mode: {
                 css: {
                     dest: "./",
-                    layout: "diagonal",
+                    layout: "horizontal",
                     sprite: paths.sprite.svg,
                     bust: false,
                     render: {
                         scss: {
                             dest: "css/src/_sprite.scss",
-                            template: "sprite_svg/build/tpl/sprite-template.scss"
+                            template: "app/design/frontend/Magento/newizze/web/sprite_svg/build/tpl/sprite-template.scss"
                         }
                     }
                 }
@@ -283,5 +298,6 @@ gulp.task('sprite', function () {
                 mapname: "icons"
             }
         }))
+
         .pipe(gulp.dest(basePaths.dest));
 });

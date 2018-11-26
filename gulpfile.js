@@ -258,46 +258,67 @@ var changeEvent = function(evt) {
     $.gutil.log('File', $.gutil.colors.cyan(evt.path.replace(new RegExp('/.*(?=/' + basePaths.src + ')/'), '')), 'was', $.gutil.colors.magenta(evt.type));
 };
 
-gulp.task('sprite', function () {
-    return gulp.src(paths.sprite.src)
-    // minify svg
-        .pipe($.svgmin({
-            js2svg: {
-                pretty: true
-            }
-        }))
-        .pipe($.cheerio({
-            run: function ($) {
-                $('[fill]').removeAttr('fill');
-                $('[style]').removeAttr('style');
-                $('[stroke]').removeAttr('stroke');
-            },
-            parserOptions: { xmlMode: true }
-        }))
-        .pipe($.svgSprite({
-            shape: {
-                spacing: {
-                    padding: 5
-                }
-            },
-            mode: {
-                css: {
-                    dest: "./",
-                    layout: "horizontal",
-                    sprite: paths.sprite.svg,
-                    bust: false,
-                    render: {
-                        scss: {
-                            dest: "css/src/_sprite.scss",
-                            template: "app/design/frontend/Magento/newizze/web/sprite_svg/build/tpl/sprite-template.scss"
-                        }
-                    }
-                }
-            },
-            variables: {
-                mapname: "icons"
-            }
-        }))
+// gulp.task('sprite', function () {
+//     return gulp.src(paths.sprite.src)
+//     // minify svg
+//         .pipe($.svgmin({
+//             js2svg: {
+//                 pretty: true
+//             }
+//         }))
+//         .pipe($.cheerio({
+//             run: function ($) {
+//                 $('[fill]').removeAttr('fill');
+//                 $('[style]').removeAttr('style');
+//                 $('[stroke]').removeAttr('stroke');
+//             },
+//             parserOptions: { xmlMode: true }
+//         }))
+//         .pipe($.svgSprite({
+//             shape: {
+//                 spacing: {
+//                     padding: 5
+//                 }
+//             },
+//             mode: {
+//                 css: {
+//                     dest: "./",
+//                     layout: "horizontal",
+//                     sprite: paths.sprite.svg,
+//                     bust: false,
+//                     render: {
+//                         scss: {
+//                             dest: "css/src/_sprite.scss",
+//                             template: "app/design/frontend/Magento/newizze/web/sprite_svg/build/tpl/sprite-template.scss"
+//                         }
+//                     }
+//                 }
+//             },
+//             variables: {
+//                 mapname: "icons"
+//             }
+//         }))
+//
+//         .pipe(gulp.dest(basePaths.dest));
+// });
+var svgstore = require('gulp-svgstore');
+var svgmin = require('gulp-svgmin');
+var path = require('path');
 
-        .pipe(gulp.dest(basePaths.dest));
+gulp.task('svgstore', function () {
+    return gulp
+        .src('app/design/frontend/Magento/newizze/web/sprite/*.svg')
+        .pipe(svgmin(function (file) {
+            var prefix = path.basename(file.relative, path.extname(file.relative));
+            return {
+                plugins: [{
+                    cleanupIDs: {
+                        prefix: prefix + '-',
+                        minify: true
+                    }
+                }]
+            }
+        }))
+        .pipe(svgstore())
+        .pipe(gulp.dest('app/design/frontend/Magento/newizze/web/images'));
 });

@@ -2,24 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5406282a-f0c5-41b3-90e0-21c97d1401c1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sprite_svg/build/sass/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sprite_svg/build/sass/src/_sprite.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sprite_svg/build/sass/style.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sprite_svg/build/sprite/check.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sprite_svg/build/sprite/phone.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sprite_svg/build/sprite/shipping-fast.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sprite_svg/build/sprite/thumbs-up.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sprite_svg/build/tpl/sprite-template.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sprite_svg/html/assets/css/src/_sprite.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sprite_svg/html/assets/img/sprite.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---758_DESIGN_CHANGE_9CF527C678194AC6624CF43449E613CE" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/[object Object]css/styles-l.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/[object Object]css/styles-l.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/[object Object]css/styles-m.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/[object Object]css/styles-m.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite/English.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite/Netherland.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-svgstore/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-svgstore/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-svgstore/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/images/ico/phone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/images/ico/shipping-fast.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/images/ico/thumbs-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/sprite/check.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/sprite/netherland.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/sprite/phone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/sprite/shipping-fast.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/sprite/thumbs-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---758_COLLECTION_B235264A9AA0FA5F648226C270C6FDE3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---758_DESIGN_CHANGE_723DFEE51FDF080D224653F569CD4926" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---758_PRODUCT_LISTING_ATTRIBUTES4_3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---758_DB_PDO_MYSQL_DDL_CATALOG_PRODUCT_ENTITY_1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---758_DESIGN_CHANGE_FDAE014943580332A4C8964380097458" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---758_EAV_ENTITY_ATTRIBUTES_3_3_3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---758_DB_PDO_MYSQL_DDL_SALES_ORDER_STATUS_1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---758_DB_PDO_MYSQL_DDL_CATALOG_PRODUCT_ENTITY_3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/var/report/188272313216" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/build/sass/src/_sprite.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/build/tpl/sprite-template.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/html/assets/css/src/_sprite.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/html/assets/img/sprite.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/html/assets/sprite.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/images/sprite_.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---758_DESIGN_CHANGE_5225B87F19F729EDA073C8C894C2F297" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/log/exception.log" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/images/sprite/check.svg" afterPath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/images/ico/check.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/images/sprite/phone.svg" afterPath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/images/ico/phone.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/images/sprite/shipping-fast.svg" afterPath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/images/ico/shipping-fast.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/images/sprite/thumbs-up.svg" afterPath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/images/ico/thumbs-up.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/build/sprite/check.svg" afterPath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite/check.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/build/sprite/phone.svg" afterPath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite/phone.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/build/sprite/scheck.svg" afterPath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/images/ico/check.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/build/sprite/shipping-fast.svg" afterPath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite/shipping-fast.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/build/sprite/thumbs-up.svg" afterPath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite/thumbs-up.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---758_SYSTEM_STORES_EN" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---758_SYSTEM_STORES_NETHERLAND" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---758_SYSTEM_STORES_DEFAULT" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---758_SYSTEM_STORES_DEUTSCH" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---758_SYSTEM_STORES_NL" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---758_SYSTEM_STORES_ENGLISH" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/Magento_Directory/templates/currency.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/Magento_Directory/templates/currency.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/Magento_Store/templates/switch/languages.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/Magento_Store/templates/switch/languages.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/css/source/_theme.less" afterPath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/css/source/_theme.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/images/sprite.svg" afterPath="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/images/sprite.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pub/static/deployed_version.txt" afterPath="$PROJECT_DIR$/pub/static/deployed_version.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/css/email-fonts.css" afterPath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/css/email-fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/css/email-inline.css" afterPath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/css/email-inline.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/css/email.css" afterPath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/css/email.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/css/print.css" afterPath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/css/print.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/css/styles-l.css" afterPath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/css/styles-l.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/css/styles-m.css" afterPath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/css/styles-m.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/images/sprite.svg" afterPath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/images/sprite.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/mage/gallery/gallery.css" afterPath="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/mage/gallery/gallery.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---758_THEME_BY_ID_1" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---758_THEME_BY_ID_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---758_Zend_LocaleC_en_US_currencytoname_USD" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---758_Zend_LocaleC_en_US_currencytoname_USD" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---758_EXTENSION_ATTRIBUTES_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---758_EXTENSION_ATTRIBUTES_CONFIG" />
@@ -28,7 +73,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---758_APP_CE79F7EF764E9F981C8549B9DBEC468F" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---758_APP_CE79F7EF764E9F981C8549B9DBEC468F" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---758_DB_IS_UP_TO_DATE" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---758_DB_IS_UP_TO_DATE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---758_SYSTEM_STORES_1" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---758_SYSTEM_STORES_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---758_SYSTEM_STORES_EN" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---758_SYSTEM_STORES_EN" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---758_COLLECTION_01070DC35759FD33A31F3F35A7130548" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---758_COLLECTION_01070DC35759FD33A31F3F35A7130548" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---758_SYSTEM_WEBSITES_0" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---758_SYSTEM_WEBSITES_0" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---758_SYSTEM_WEBSITES_BASE" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---758_SYSTEM_WEBSITES_BASE" />
@@ -36,15 +80,16 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---758_CRON_GROUPS_CONFIG_CACHE" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---758_CRON_GROUPS_CONFIG_CACHE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---758_EAV_ENTITY_ATTRIBUTES_3_0_0" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---758_EAV_ENTITY_ATTRIBUTES_3_0_0" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---758_FRONTEND__EVENT_CONFIG_CACHE" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---758_FRONTEND__EVENT_CONFIG_CACHE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---758_SYSTEM_STORES_DEFAULT" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---758_SYSTEM_STORES_DEFAULT" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---758_SYSTEM_WEBSITES_1" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---758_SYSTEM_WEBSITES_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---758_THEME_BY_ID_5" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---758_THEME_BY_ID_5" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---758_Zend_LocaleC_en_US_currencysymbol_USD" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---758_Zend_LocaleC_en_US_currencysymbol_USD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---758_Zend_LocaleL_en_US_symbols_" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---758_Zend_LocaleL_en_US_symbols_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---758_GLOBAL__RESOURCESCACHE" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---758_GLOBAL__RESOURCESCACHE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---758_SYSTEM" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---758_SYSTEM" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---758_THEMEFRONTEND_MAGENTO_NEWIZZE" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---758_THEMEFRONTEND_MAGENTO_NEWIZZE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---758_DB_PDO_MYSQL_DDL_CUSTOMER_VISITOR_1" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---758_DB_PDO_MYSQL_DDL_CUSTOMER_VISITOR_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---758_EAV_ENTITY_TYPES" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---758_EAV_ENTITY_TYPES" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---758_SORTED_QUOTE_COLLECTORS" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---758_SORTED_QUOTE_COLLECTORS" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---758_SYSTEM_STORES_3" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---758_SYSTEM_STORES_3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---758_SYSTEM_STORES_2" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---758_SYSTEM_STORES_2" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---758_APP_35C0BF370AE35F8C482DC31B8A81FC2F" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---758_APP_35C0BF370AE35F8C482DC31B8A81FC2F" />
@@ -55,12 +100,14 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---758_SYSTEM_SCOPES" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---758_SYSTEM_SCOPES" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---758_Zend_LocaleC_en_US_currencysymbol_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---758_Zend_LocaleC_en_US_currencysymbol_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---758_APP_ACTION_LIST" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---758_APP_ACTION_LIST" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---758_PAYMENT_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---758_PAYMENT_CONFIG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---758_SYSTEM_STORES_0" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---758_SYSTEM_STORES_0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---758_SALES_TOTALS_CONFIG_CACHE" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---758_SALES_TOTALS_CONFIG_CACHE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---758_SYSTEM_WEBSITES_ADMIN" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---758_SYSTEM_WEBSITES_ADMIN" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---758_Zend_LocaleC_en_US_currencynumber_" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---758_Zend_LocaleC_en_US_currencynumber_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---758_Zend_LocaleC_en_US_currencytoregion_US" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---758_Zend_LocaleC_en_US_currencytoregion_US" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---758_APP_4169C5DEEEB8F84FEFBFAC574BE2769B" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---758_APP_4169C5DEEEB8F84FEFBFAC574BE2769B" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---758_GLOBAL_PLUGIN_LIST" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---758_GLOBAL_PLUGIN_LIST" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---758_SYSTEM_STORES_NL" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---758_SYSTEM_STORES_NL" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---758_GLOBAL_FRONTEND_PLUGIN_LIST" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---758_GLOBAL_FRONTEND_PLUGIN_LIST" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---758_INITIAL_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---758_INITIAL_CONFIG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---758_SYSTEM_STORES_ADMIN" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---758_SYSTEM_STORES_ADMIN" />
@@ -73,15 +120,29 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---758_INTERCEPTION" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---758_INTERCEPTION" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---758_UI_COMPONENT_CONFIGURATION_DEFINITION_DATA" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---758_UI_COMPONENT_CONFIGURATION_DEFINITION_DATA" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---758_Zend_LocaleC_en_US_nametocurrency_" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---758_Zend_LocaleC_en_US_nametocurrency_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_CAT_C" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_CAT_C" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_COLLECTION_DATA" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_COLLECTION_DATA" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_CONFIG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_CONFIG_SCOPES" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_CONFIG_SCOPES" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_CORE_DESIGN" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_CORE_DESIGN" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_DB_DDL" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_DB_DDL" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_DB_PDO_MYSQL_DDL" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_DB_PDO_MYSQL_DDL" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_EAV" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_EAV" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_EAV_ATTRIBUTE" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_EAV_ATTRIBUTE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_MAGE" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_MAGE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_STORE" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_STORE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_Zend_Locale" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---758_Zend_Locale" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/log/system.log" afterPath="$PROJECT_DIR$/var/log/system.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/app/design/frontend/Magento/newizze/Magento_Store/templates/switch/languages.phtml" afterPath="$PROJECT_DIR$/var/view_preprocessed/pub/static/app/design/frontend/Magento/newizze/Magento_Store/templates/switch/languages.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/newizze/en_US/css/email-fonts.css" afterPath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/newizze/en_US/css/email-fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/newizze/en_US/css/email-inline.css" afterPath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/newizze/en_US/css/email-inline.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/newizze/en_US/css/email.css" afterPath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/newizze/en_US/css/email.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/newizze/en_US/css/print.css" afterPath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/newizze/en_US/css/print.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/newizze/en_US/css/source/_theme.less" afterPath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/newizze/en_US/css/source/_theme.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/newizze/en_US/css/styles-l.css" afterPath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/newizze/en_US/css/styles-l.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/newizze/en_US/css/styles-m.css" afterPath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/newizze/en_US/css/styles-m.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/newizze/en_US/info.json" afterPath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/newizze/en_US/info.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/newizze/en_US/mage/gallery/gallery.css" afterPath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/newizze/en_US/mage/gallery/gallery.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -92,61 +153,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sprite.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/images/sprite.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="627" lean-forward="false" selection-start-line="0" selection-start-column="622" selection-end-line="0" selection-end-column="627" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="languages.phtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/Magento_Store/templates/switch/languages.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-64">
-              <caret line="12" column="59" lean-forward="false" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+            <state relative-caret-position="285">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sprite.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/html/assets/sprite.css">
+      <file leaf-file-name="currency.phtml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/Magento_Directory/templates/currency.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="55" />
+            <state relative-caret-position="174">
+              <caret line="28" column="70" lean-forward="false" selection-start-line="28" selection-start-column="70" selection-end-line="28" selection-end-column="70" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sprite.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/images/sprite.svg">
+      <file leaf-file-name="_theme.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/css/source/_theme.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="164" lean-forward="true" selection-start-line="0" selection-start-column="164" selection-end-line="0" selection-end-column="164" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gulpfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="289" column="0" lean-forward="false" selection-start-line="289" selection-start-column="0" selection-end-line="289" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_sprite.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/html/assets/css/src/_sprite.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="543">
+              <caret line="55" column="17" lean-forward="false" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -156,7 +187,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Default welcome msg!</find>
       <find>w</find>
       <find>What's New</find>
       <find>show_part</find>
@@ -186,6 +216,7 @@
       <find>switcher-language&quot;</find>
       <find>x=</find>
       <find>phone</find>
+      <find>switcher-trigger</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -193,12 +224,12 @@
     <dirStrings>
       <dir>$PROJECT_DIR$/pub</dir>
       <dir>$PROJECT_DIR$/vendor</dir>
-      <dir>$PROJECT_DIR$/app/design/frontend</dir>
       <dir>$PROJECT_DIR$/vendor/magento</dir>
       <dir>$PROJECT_DIR$/vendor/magento/module-theme/view</dir>
       <dir>$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/css/source/fa</dir>
       <dir>$PROJECT_DIR$/app</dir>
       <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/app/design/frontend</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -238,20 +269,21 @@
         <option value="$PROJECT_DIR$/app/code/Newizze/CyrrencySymbol/registration.php" />
         <option value="$PROJECT_DIR$/app/code/Newizze/CurrencyCode/etc/di.xml" />
         <option value="$PROJECT_DIR$/vendor/magento/module-directory/Block/Currency.php" />
-        <option value="$PROJECT_DIR$/app/design/frontend/Magento/newizze/Magento_Directory/templates/currency.phtml" />
         <option value="$PROJECT_DIR$/app/code/Newizze/CurrencyCode/Block/Currency.php" />
         <option value="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/css/source/_sprite-template.scss" />
         <option value="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/css/_sprite-template.scss" />
         <option value="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/css/_svg_sprite.scss" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/css/source/_theme.less" />
         <option value="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/html/assets/css/src/_sprite.scss" />
         <option value="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/images/sprite.svg" />
         <option value="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/images/sprite_.svg" />
         <option value="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/html/assets/img/sprite.svg" />
-        <option value="$PROJECT_DIR$/app/design/frontend/Magento/newizze/Magento_Store/templates/switch/languages.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/html/assets/sprite.css" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/css/source/_theme.less" />
+        <option value="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/images/sprite.svg" />
+        <option value="$PROJECT_DIR$/app/design/frontend/Magento/newizze/Magento_Store/templates/switch/languages.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/Magento/newizze/Magento_Directory/templates/currency.phtml" />
       </list>
     </option>
   </component>
@@ -393,152 +425,7 @@
               <item name="Magento" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="newizze" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="sprite" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Magento22" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Magento22" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="design" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="newizze" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sprite_svg" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Magento22" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Magento22" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="design" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="newizze" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sprite_svg" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="build" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Magento22" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Magento22" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="design" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="newizze" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sprite_svg" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="build" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sass" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Magento22" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Magento22" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="design" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="newizze" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sprite_svg" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="build" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sass" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Magento22" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Magento22" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="design" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="newizze" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sprite_svg" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="build" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sprite" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Magento22" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Magento22" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="design" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="newizze" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sprite_svg" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="build" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="tpl" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Magento22" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Magento22" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="design" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="newizze" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sprite_svg" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="html" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Magento22" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Magento22" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="design" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="newizze" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sprite_svg" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Magento22" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Magento22" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="design" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="newizze" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sprite_svg" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Magento22" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Magento22" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="design" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="newizze" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sprite_svg" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Magento22" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Magento22" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="design" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="newizze" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sprite_svg" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Magento22" type="b2602c69:ProjectViewProjectNode" />
@@ -595,6 +482,23 @@
               <item name="newizze" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="en_US" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Magento22" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Magento22" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="var" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Magento22" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Magento22" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="var" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="log" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Magento22" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Magento22" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="var" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="report" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -614,17 +518,17 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/images" />
-      <recent name="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/build/tpl" />
-      <recent name="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/images/sprite" />
-      <recent name="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web" />
+      <recent name="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite" />
+      <recent name="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/sprite" />
+      <recent name="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg" />
       <recent name="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg" />
       <recent name="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/build/sprite" />
       <recent name="$PROJECT_DIR$/sprite_svg" />
       <recent name="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/css" />
       <recent name="$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/css/source/fa" />
-      <recent name="$PROJECT_DIR$/app/design/frontend/Magento/newizze/Magento_Theme/web/css/source" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -683,7 +587,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106692000" />
+    <option name="totallyTimeSpent" value="114958000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -693,6 +597,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36313617" sideWeight="0.50807756" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -711,7 +616,6 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36313617" sideWeight="0.4951535" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20274636" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -751,44 +655,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-directory/view/frontend/templates/currency.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/framework/View/Element/Template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="89" column="45" lean-forward="false" selection-start-line="89" selection-start-column="38" selection-end-line="89" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-store/Model/StoreManagerInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="37" column="18" lean-forward="false" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/Newizze/CyrrencySymbol/etc/module.xml" />
-    <entry file="file://$PROJECT_DIR$/app/code/Newizze/CyrrencySymbol/registration.php" />
-    <entry file="file://$PROJECT_DIR$/app/code/Newizze/CurrencyCode/etc/module.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/Newizze/CurrencyCode/etc/_di.xml" />
-    <entry file="file://$PROJECT_DIR$/app/etc/env.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="29" column="33" lean-forward="false" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/etc/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
@@ -800,6 +666,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1241">
           <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -815,16 +682,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/Magento_Directory/templates/currency.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="28" column="63" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="63" />
-          <folding>
-            <element signature="e#6#103#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -934,14 +791,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/css/source/_theme.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/build/tpl/sprite-template.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -962,14 +811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/images/sprite.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="627" lean-forward="false" selection-start-line="0" selection-start-column="622" selection-end-line="0" selection-end-column="627" />
           <folding />
         </state>
       </provider>
@@ -1006,14 +847,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/Magento_Store/templates/switch/languages.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-64">
-          <caret line="12" column="59" lean-forward="false" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/html/assets/css/src/_sprite.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1038,26 +871,122 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/images/sprite.svg">
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/html/assets/sprite.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/ico/check.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="164" lean-forward="true" selection-start-line="0" selection-start-column="164" selection-end-line="0" selection-end-column="164" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/ico.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite/Netherland.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite/check.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/log/exception.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/report/175878142688">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="44" lean-forward="false" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="289" column="0" lean-forward="false" selection-start-line="289" selection-start-column="0" selection-end-line="289" selection-end-column="0" />
+        <state relative-caret-position="93">
+          <caret line="309" column="60" lean-forward="false" selection-start-line="309" selection-start-column="60" selection-end-line="309" selection-end-column="60" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite_svg/html/assets/sprite.css">
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/images/ico/check.svg">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="55" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/sprite/English.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/css/source/_theme.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="55" column="17" lean-forward="false" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pub/static/frontend/Magento/newizze/en_US/images/sprite.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="164" lean-forward="false" selection-start-line="0" selection-start-column="164" selection-end-line="0" selection-end-column="164" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/web/images/sprite.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1379" lean-forward="false" selection-start-line="0" selection-start-column="1378" selection-end-line="0" selection-end-column="1379" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/Magento_Store/templates/switch/languages.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/Magento/newizze/Magento_Directory/templates/currency.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="28" column="70" lean-forward="false" selection-start-line="28" selection-start-column="70" selection-end-line="28" selection-end-column="70" />
           <folding />
         </state>
       </provider>

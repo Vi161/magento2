@@ -11231,5 +11231,9 @@ fieldset[disabled] .block-event .slider-panel .slider .item .action.event {
   width: 14px;
   height: 14px;
 }
+.page-header .icon-flag {
+  width: 14px;
+  height: 14px;
+}
 
 /*# sourceMappingURL=styles-m.css.map */

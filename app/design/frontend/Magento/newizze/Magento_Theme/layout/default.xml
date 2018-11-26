@@ -12,8 +12,10 @@
                         <argument name="block_id" xsi:type="string">need_help</argument>
                     </arguments>
                 </block>
-                <block class="Magento\Directory\Block\Currency" name="currency" before="store_language" template="currency.phtml"/>
-                <block class="Magento\Store\Block\Switcher" name="store_language" as="store_language" template="Magento_Store::switch/languages.phtml" after="need_help"/>
+                <block class="Magento\Directory\Block\Currency" name="currency" before="store_language"
+                       template="currency.phtml"/>
+                <block class="Magento\Store\Block\Switcher" name="store_language" as="store_language"
+                       template="Magento_Store::switch/languages.phtml" after="need_help"/>
             </container>
         </referenceContainer>
 
@@ -24,15 +26,30 @@
                     <argument name="logo_img_height" xsi:type="number">30</argument>
                 </arguments>
             </block>
-            <block class="Magento\Customer\Block\Account\Navigation" name="top.links" htmlClass="panel header ">
-                <arguments>
-                    <argument name="css_class" xsi:type="string">header links</argument>
-                </arguments>
-            </block>
+            <container name="header-bot-right" htmlTag="div" htmlClass="header-bot-right" after="logo">
+
+                <block class="Magento\Framework\View\Element\Template" name="top.search" as="topSearch"
+                       template="Magento_Search::form.mini.phtml" after="authorization-link"/>
+                <block class="Magento\Framework\View\Element\Html\Link" name="service-link" htmlClass="service-link" after="top.search">
+                    <arguments>
+                        <argument name="label" xsi:type="string" translate="false">service</argument>
+                        <argument name="path"  xsi:type="string" translate="false">service/</argument>
+                    </arguments>
+                </block>
+                <block class="Magento\Customer\Block\Account\Navigation" name="top.links" htmlClass="panel header " after="service-link" before="minicart">
+                    <arguments>
+                        <argument name="css_class" xsi:type="string">header links</argument>
+                    </arguments>
+                </block>
+            </container>
+
         </referenceContainer>
+        <move element="minicart" destination="header-bot-right" />
 
         <referenceBlock name="my-account-link" remove="true"/>
         <referenceBlock name="register-link" remove="true"/>
         <referenceBlock name="header" remove="true"/>
+        <referenceBlock name="catalog.compare.link" remove="true"/>
+
     </body>
 </page>

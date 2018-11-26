@@ -29,7 +29,8 @@
                 <?php if ($_lang->getId() != $block->getCurrentStoreId()): ?>
                     <li class="view-<?= $block->escapeHtml($_lang->getCode()) ?> switcher-option">
                         <a href="#" data-post='<?= /* @noEscape */ $block->getTargetStorePostData($_lang) ?>'>
-                            <?= $block->escapeHtml($_lang->getName()) ?>
+                            <?= $block->escapeHtml($_lang->getCode()) ?>
+                            <svg class="icon icon-flag"><use xlink:href="<?php echo $this->getViewFileUrl('images/sprite.svg'); ?>#<?= $block->escapeHtml($_lang->getCode()) ?>" ></use></svg>
                         </a>
                     </li>
                 <?php endif; ?>

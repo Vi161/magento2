@@ -1,71 +1,80 @@
 
-// Mode: Tablet
-@tablet: 768px;
-// Mode: Desktop
-@desktop: 1024px;
+
+& when (@media-common = true) {
 
 
-@media (min-width: @tablet) {
-  .navigation, .breadcrumbs, .page-header .header.panel, .header.content, .footer.content, .page-wrapper > .widget,
-  .page-wrapper > .page-bottom, .block.category.event, .top-container, .page-main {
-    max-width: 100%;
-  }
-  .header-top {
-    list-style: none;
-    display: flex;
-    padding: 0;
-    float: left;
-    width: 79%;
-    max-width: 782px;
-    justify-content: space-between;
-  }
-}
-.page-header {
-  div.panel.header {
-    &:before, &:after {
-      display: none;
+  //
+  //  Desktop
+  //  _____________________________________________
+
+  .media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__m) {
+    .navigation, .breadcrumbs, .page-header .header.panel, .header.content, .footer.content, .page-wrapper > .widget,
+    .page-wrapper > .page-bottom, .block.category.event, .top-container, .page-main {
+      max-width: 100%;
     }
-    display: flex;
-    justify-content: space-between;
-  }
-  .header-top__li {
-    i {
-      svg {
+
+    .header-top {
+      list-style: none;
+      display: flex;
+      padding: 0;
+      float: left;
+      width: 79%;
+      max-width: 782px;
+      justify-content: space-between;
+    }
+    .page-header {
+      div.panel.header {
+        &:before, &:after {
+          display: none;
+        }
+        display: flex;
+        justify-content: space-between;
+      }
+      .header-top__li {
+        i {
+          svg {
+            width: 14px;
+            height: 14px;
+          }
+        }
+      }
+      .header-top-right {
+        display: flex;
+        .header-phone-wrap {
+          display: flex;
+          .ico-phone svg {
+            transform: matrix(-1, 0, 0, 1, 0, 0);
+          }
+        }
+      }
+      .header-ico {
+        svg {
+          width: 14px;
+          height: 14px;
+        }
+      }
+      .icon-flag {
         width: 14px;
         height: 14px;
       }
-    }
-  }
-  .header-top-right {
-    display: flex;
-    .header-phone-wrap {
-      display: flex;
-      .ico-phone svg {
-        transform: matrix(-1, 0, 0, 1, 0, 0);
+      .header {
+        &.content {
+          display: flex;
+        }
+        &-bot-right {
+          display: flex;
+        }
       }
     }
   }
-  .header-ico {
-    svg {
-      width: 14px;
-      height: 14px;
-    }
-  }
-  .icon-flag {
-    width: 14px;
-    height: 14px;
-  }
-  .header {
-    &.content {
-      display: flex;
-    }
-    &-bot-right {
-      display: flex;
-    }
+  //
+  //  Mobile
+  //  _____________________________________________
+
+  .media-width(@extremum, @break) when (@extremum = 'max') and (@break = @screen__m) {
+
   }
 }
-
-
 
 
 

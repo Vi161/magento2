@@ -1,0 +1,2 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1543311279;s:6:"expire";i:1543318479;s:4:"tags";s:49:"758_STORE,758_CONFIG,758_COLLECTION_DATA,758_MAGE";}
+[{"store_id":"2","code":"Deutsch","website_id":"1","group_id":"1","name":"Deutsch Store","sort_order":"1","is_active":"1"},{"store_id":"1","code":"English","website_id":"1","group_id":"1","name":"English Store","sort_order":"1","is_active":"1"},{"store_id":"3","code":"Netherland","website_id":"1","group_id":"1","name":"Netherland Store","sort_order":"1","is_active":"1"}]

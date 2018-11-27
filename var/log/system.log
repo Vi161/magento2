@@ -5891,3 +5891,4 @@ Attribute after redefined
 [2018-11-26 09:35:35] main.INFO: Add of item with id Temando_Shipping::locations was processed [] []
 [2018-11-26 09:35:35] main.INFO: Add of item with id Temando_Shipping::packaging was processed [] []
 [2018-11-26 09:35:35] main.INFO: Add of item with id Temando_Shipping::dispatches was processed [] []
+[2018-11-27 09:00:21] main.CRITICAL: Can not load static content version. [] []

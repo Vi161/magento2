@@ -45,6 +45,8 @@
 
         </referenceContainer>
         <move element="minicart" destination="header-bot-right" />
+        <move element="service-link" destination="top.links" />
+
 
         <referenceBlock name="my-account-link" remove="true"/>
         <referenceBlock name="register-link" remove="true"/>

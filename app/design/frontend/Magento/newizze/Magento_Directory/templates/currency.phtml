@@ -26,7 +26,7 @@ $currencySymbol = $block->getLayout()->createBlock('Newizze\CurrencyCode\Block\C
              data-toggle="dropdown"
              data-trigger-keypress-button="true">
             <strong class="language-<?= $block->escapeHtml($block->getCurrentCurrencyCode()) ?>">
-                <span><?= $block->escapeHtml($currentCurrencyCode) ?> <?php echo $currencySymbol->getSymbol()?></span>
+                <span><?= $block->escapeHtml($currentCurrencyCode) ?></span> <span class="currency-symbol"> <?php echo $currencySymbol->getSymbol()?></span>
             </strong>
         </div>
         <ul class="dropdown switcher-dropdown" data-target="dropdown">

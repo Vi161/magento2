@@ -16,7 +16,7 @@ return array (
       'default' => 
       array (
         'host' => 'localhost',
-        'dbname' => 'magento22',
+        'dbname' => 'magento2',
         'username' => 'root',
         'password' => 'root',
         'active' => '1',

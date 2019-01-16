@@ -3,7 +3,7 @@
         <referenceContainer name="header.panel">
             <block class="Magento\Cms\Block\Block" name="header_top_panel">
                 <arguments>
-                    <argument name="block_id" xsi:type="string">header_top_panel</argument>
+                    <argument name="block_id" xsi:type="string">SB_header-top</argument>
                 </arguments>
             </block>
             <container name="header-top-right" htmlTag="div" htmlClass="header-top-right" after="header_top_panel">

@@ -198,62 +198,19 @@ gulp.task('cache-flush', function (cb) {
     });
 })
 
-
-
 //svg sprite
-var basePaths = {
-    src: 'app/design/frontend/Magento/newizze/web/sprite_svg/build/',
-    dest: 'app/design/frontend/Magento/newizze/web/sprite_svg/html/assets/',
-};
-var paths = {
-    images: {
-        src: basePaths.src + 'img/',
-        dest: basePaths.dest + 'img/'
-    },
-    sprite: {
-        src: basePaths.src + 'sprite/*',
-        svg: 'img/sprite.svg',
-        css: '../../' + basePaths.src + 'sass/src/_sprite.scss'
-    },
-    templates: {
-        src: basePaths.src + 'tpl/'
-    }
-};
+var svgSprite = require('gulp-svg-sprite');
 
-/*
-	Let the magic begin
-*/
-var gulp = require('gulp');
-var $ = {
-    gutil: require('gulp-util'),
-    svgmin: require('gulp-svgmin'),
-    svgSprite: require('gulp-svg-sprite'),
-    size: require('gulp-size'),
-    cheerio: require('gulp-cheerio'),
-};
-
-var changeEvent = function (evt) {
-    $.gutil.log('File', $.gutil.colors.cyan(evt.path.replace(new RegExp('/.*(?=/' + basePaths.src + ')/'), '')), 'was', $.gutil.colors.magenta(evt.type));
-};
-
-var svgstore = require('gulp-svgstore');
-var svgmin = require('gulp-svgmin');
-var pathSvgNewizze = require('path');
-
-gulp.task('svgstore', function () {
-    return gulp
-        .src('app/design/frontend/Magento/newizze/web/sprite/*.svg')
-        .pipe(svgmin(function (file) {
-            var prefix = pathSvgNewizze.basename(file.relative, pathSvgNewizze.extname(file.relative));
-            return {
-                plugins: [{
-                    cleanupIDs: {
-                        prefix: prefix + '-',
-                        minify: true
+gulp.task('svgSprite', function () {
+    return gulp.src('app/design/frontend/Magento/furny/web/sprite/*.svg') // svg files for sprite
+        .pipe(svgSprite({
+                mode: {
+                    stack: {
+                        sprite: "../sprite.svg"  //sprite file name
                     }
-                }]
+                },
             }
-        }))
-        .pipe(svgstore())
-        .pipe(gulp.dest('app/design/frontend/Magento/newizze/web/images'));
+        ))
+        .pipe(gulp.dest('app/design/frontend/Magento/furny/web/images/'));
 });
+

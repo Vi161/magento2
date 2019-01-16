@@ -5,6 +5,7 @@
   }
   .panel.header {
     background-color: #f1f1f1;
+    padding: 14px;
   }
   .header {
     &-ico {
@@ -16,6 +17,9 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        &.abs-no-display-m {
+          display: none;
+        }
       }
     }
     &.links {
@@ -29,6 +33,25 @@
           text-transform: lowercase;
         }
       }
+    }
+    &-bot-right {
+      .block-search, .links {
+        display: none;
+      }
+    }
+    .logo {
+      float: none;
+      margin: 0;
+      max-width: 100%;
+      left: 0;
+      position: absolute;
+      width: 100%;
+      img {
+        margin: 0 auto;
+      }
+    }
+    &-top-right {
+      display: none;
     }
   }
   .page-header {
@@ -50,9 +73,6 @@
         }
       }
     }
-    .header-top-right {
-      display: none;
-    }
   }
   .currency-symbol {
     width: 20px;
@@ -65,9 +85,6 @@
     line-height: 18px;
     box-sizing: border-box;
     font-size: 15px;
-  }
-  .abs-no-display-m {
-    display: none;
   }
 }
 
@@ -118,13 +135,55 @@
       height: 14px;
     }
     .header {
-      &.content {
+      &-top__li {
         display: flex;
+      }
+      &.content {
+        &:before, &:after {
+          display: none;
+        }
+        display: flex;
+        justify-content: space-between;
       }
       &-bot-right {
         display: flex;
+        .block-search, .links {
+          display: flex;
+        }
+      }
+      .logo {
+        float: left;
+        margin: 0 0 10px 40px;
+        max-width: 50%;
+        position: relative;
+        width: auto;
+        img {
+          margin: 0 auto;
+        }
+      }
+      -top-right {
+        display: block;
       }
     }
+  }
+  //----------------
+  .minicart-wrapper:after {
+    background: url("../images/sprite.svg#search") no-repeat;
+    width: 35px;
+    height: 35px;
+    display: block;
+    border: 1px solid black;
+  }
+  .minicart-wrapper .action.showcart:before {
+    display: none;
+  }
+  svg {
+    width: 14px;
+    height: 14px;
+  }
+  .cart-ico-test {
+    width: 14px;
+    height: 14px;
   }
 }
 
